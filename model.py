@@ -17,7 +17,7 @@
 
     Description: This file contains several functions used to abstract aspects
     of model interaction within the API. This includes loading a model from
-    file, data preprocessing, and model prediction.  
+    file, data preprocessing, and model prediction...  
 
 """
 
